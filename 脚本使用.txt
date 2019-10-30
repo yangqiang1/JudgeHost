@@ -1,0 +1,2 @@
+1、在/home/jack/etc/host文件中存有主机IP以及对应的主机名
+2、运行judgehost这一shell脚本，可以根据输入的IP，找出对应的主机名
